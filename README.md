@@ -47,7 +47,7 @@ ATM_System/
 
   # 1. Clone the repository
 
-  git clone https://github.com/GyanPrakash-30/ATM_System.git
+  git clone https://github.com/Pandegokul-30/ATM_System.git
  
   cd ATM_System
 
