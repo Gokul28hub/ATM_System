@@ -96,7 +96,7 @@ ATM_System/
   ![image](https://github.com/user-attachments/assets/c72809ad-ecf6-451d-92eb-589758912f1f)
 
 
-MIT License © 2025 Gyan Prakash
+MIT License © 2026 Pandegokul
 
   
 
